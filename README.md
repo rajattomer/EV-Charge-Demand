@@ -32,24 +32,6 @@ conda install pandas numpy matplotlib seaborn scikit-learn
 conda install -c conda-forge xgboost
 ```
 
-## 🚀 How to Run
-
-1. Clone the repository or download the files.
-2. Ensure the dataset is in the correct folder.
-3. Launch Jupyter Notebook:
-
-   ```bash
-   jupyter notebook
-   ```
-4. Open `EV_Charging_Demand_Prediction.ipynb.ipynb` and run the cells sequentially.
-
-
-## 📌 Example Visualizations
-
-* County-level heatmap of EV density
-* Predicted vs. Actual charging demand plots
-* Feature importance rankings
-
 ## 🧠 Future Work
 
 * Incorporate charging station location data
