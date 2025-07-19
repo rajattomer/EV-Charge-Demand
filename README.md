@@ -17,21 +17,6 @@ This project predicts electric vehicle (EV) charging demand by analyzing EV popu
 * Build a model to forecast future EV charging demand.
 * Identify high-demand regions to inform infrastructure development.
 
-## 🛠️ Requirements
-
-Install required packages using pip or conda:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost
-```
-
-Or via conda:
-
-```bash
-conda install pandas numpy matplotlib seaborn scikit-learn
-conda install -c conda-forge xgboost
-```
-
 ## 🧠 Future Work
 
 * Incorporate charging station location data
