@@ -5,7 +5,6 @@ This project predicts electric vehicle (EV) charging demand by analyzing EV popu
 ## 📊 Dataset
 
 **Dataset Name:** EV Population by County
-**Source:** (Add link or reference if publicly available)
 
 * County Name
 * Number of Registered EVs
