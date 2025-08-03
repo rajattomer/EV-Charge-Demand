@@ -13,8 +13,9 @@ As electric vehicle (EV) adoption surges, urban planners must anticipate infrast
 * County Name
 * Number of Registered EVs
 * Vehicle Types
-* Year
- Dataset Source: [Kaggle Dataset Link](https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population-size-2024)
+* Year  
+
+Dataset Source: [Kaggle Dataset Link](https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population-size-2024)
 
 ## 📌 Objectives
 
